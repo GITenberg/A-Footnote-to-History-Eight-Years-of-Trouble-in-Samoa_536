@@ -1,5 +1,8 @@
 _repo: A-Footnote-to-History-Eight-Years-of-Trouble-in-Samoa_536
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stevenson, Robert Louis
@@ -13,6 +16,8 @@ description: Published in 1892, the author's experiences in Samoa inspired this 
   of their Civil War, which began in 1889. Stevenson's natural affinity for the underdog
   put him squarely in the camp of the indigenous inhabitants who were fighting against
   the colonial powers of England, Germany, and America.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/536#A-Footnote-to-History-Eight-Years-of-Trouble-in-Samoa
 gutenberg_issued: '1996-05-01'
 gutenberg_type: Text
 identifiers:
