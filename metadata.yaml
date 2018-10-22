@@ -1,5 +1,5 @@
 _repo: A-Footnote-to-History-Eight-Years-of-Trouble-in-Samoa_536
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -29,5 +29,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'DU'
 - !lcsh 'Samoan Islands -- History'
+- GITenberg
 title: 'A Footnote to History: Eight Years of Trouble in Samoa'
 url: http://www.gutenberg.org/ebooks/536
